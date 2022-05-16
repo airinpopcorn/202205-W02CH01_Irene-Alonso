@@ -1,0 +1,28 @@
+{
+    "name": "202205w02ch01-irene-alonso",
+    "version": "1.0.0",
+    "description": "Escribe una en un módulo propio, una función llamada `strictEquals(a, b)` que devuelva el mismo valor que `a === b`. Tu implementación no puede usar los operadores `===` ni `!==`.",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/airinpopcorn/202205-W02CH01_Irene-Alonso.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/airinpopcorn/202205-W02CH01_Irene-Alonso/issues"
+    },
+    "homepage": "https://github.com/airinpopcorn/202205-W02CH01_Irene-Alonso#readme",
+    "devDependencies": {
+        "eslint": "^8.15.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-plugin-import": "^2.26.0"
+    }
+}
+
